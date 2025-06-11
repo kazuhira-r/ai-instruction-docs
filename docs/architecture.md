@@ -22,6 +22,10 @@
   - MyBatis Spring Boot Starter 3.0.4
 - データベースマイグレーション
   - Flyway
+- テスト
+  - JUnit 5
+  - AssertJ
+  - AssertJ-DB
 - ビルドツール
   - Apache Maven 3.9.9
 - 自動生成ツール
@@ -29,4 +33,3 @@
     - Mavenプラグインとして利用
 - データベース
   - MySQL 8.4
-

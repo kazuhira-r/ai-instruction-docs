@@ -34,8 +34,10 @@
 - com.example.app.<機能名>.request … Requestを配置
 - com.example.app.<機能名>.response … Responseを配置
 - com.example.app.<機能名>.service … Serviceを配置
-- com.example.app.<機能名>.Dto … Dtoを配置
+- com.example.app.<機能名>.dto … Dtoを配置
 - com.example.app.<機能名>.mapper … 機能ごとのMapperを配置
 - com.example.app.<機能名>.entity … JOINした結果や検索条件などのEntityを配置
 - com.example.app.mapper … MyBatis Generatorで生成したMapperを配置
 - com.example.app.entity … MyBatis Generatorで生成したEntityを配置
+- com.example.app.common … 共通機能を配置
+- com.example.app.common.exception … アプリケーション共通で使う例外クラスを配置

@@ -1,7 +1,8 @@
 {
   "github.copilot.chat.codeGeneration.instructions": [
-    {"file": "docs/about_project.md"},
+    {"file": "docs/README.md"},
     {"file": "docs/architecture.md"},
     {"file": "docs/application-stereotype.md"},
+    {"file": "docs/coding-standards.md"},
   ]
 }
