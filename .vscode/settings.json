@@ -4,5 +4,8 @@
     {"file": "docs/architecture.md"},
     {"file": "docs/application-stereotype.md"},
     {"file": "docs/coding-standards.md"},
-  ]
+    {"file": "docs/development-process.md"},
+    {"file": "docs/test-code-standards.md"},
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
