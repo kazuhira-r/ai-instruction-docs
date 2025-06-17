@@ -23,11 +23,22 @@
 - データベースマイグレーション
   - Flyway
 - テスト
-  - JUnit 5
-  - AssertJ
-  - AssertJ-DB
+  - テスティングフレームワーク
+    - JUnit 5
+  - アサーション
+    - AssertJ
+    - AssertJ-DB
+  - モックライブラリー
+    - Moockito
 - ビルドツール
-  - Apache Maven 3.9.9
+  - Apache Maven 3.9.10
+- ソースコードフォーマッター
+  - Spotless
+    - Mavenプラグインとして利用
+- 静的解析ツール
+  - SpotBugs
+  - CheckStyle
+  - 静的解析ツールはいずれもMavenプラグインとして実行
 - 自動生成ツール
   - MyBatis Generator 1.4.2
     - Mavenプラグインとして利用
