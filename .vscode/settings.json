@@ -5,6 +5,8 @@
     {"file": "docs/application-stereotype.md"},
     {"file": "docs/coding-standards.md"},
     {"file": "docs/development-process.md"},
+  ],
+  "github.copilot.chat.testGeneration.instructions": [
     {"file": "docs/test-code-standards.md"},
   ],
   "java.configuration.updateBuildConfiguration": "interactive"
